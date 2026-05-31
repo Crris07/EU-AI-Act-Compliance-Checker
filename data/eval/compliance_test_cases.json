@@ -1,0 +1,14 @@
+[
+  {
+    "id": "basic_high_risk_hr_screening",
+    "description": "An AI system screens job applicants and ranks candidates for interviews based on CVs and automated personality analysis.",
+    "expected_topics": [
+      "high-risk AI systems",
+      "employment",
+      "risk management",
+      "human oversight",
+      "transparency"
+    ]
+  }
+]
+
