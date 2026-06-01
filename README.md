@@ -364,4 +364,5 @@ Current test coverage:
 ## Disclaimer
 
 This project is a technical prototype for AI governance research and portfolio demonstration. It is not a substitute for legal counsel. The EU AI Act is complex, and real compliance decisions should involve qualified legal and regulatory experts.
-
+## LIECENCE
+***MIT***
