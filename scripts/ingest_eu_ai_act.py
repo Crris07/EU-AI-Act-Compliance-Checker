@@ -5,7 +5,7 @@ import sys
 ROOT_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT_DIR))
 
-from src.ingestion.build_index import ingest_eu_ai_act_url  # noqa: E402
+from src.ingestion.build_index import ingest_eu_ai_act_url
 
 
 DEFAULT_EU_AI_ACT_URL = "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689&qid=1780180102086"
